@@ -1,0 +1,10 @@
+{
+  "name": "rentalated-property-listing",
+  "version": "1.0.0",
+  "description": "property and listings apis for the rentalated application",
+  "main": "index.js",
+  "repository": "https://github.com/magentanova/rentalated-property-listing",
+  "author": "justin richards",
+  "license": "MIT",
+  "private": false
+}
